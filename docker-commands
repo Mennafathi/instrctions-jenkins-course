@@ -1,4 +1,4 @@
-e) in jenkins UI portal:
+a) in jenkins UI portal:
 -----------------------
 open jenkins dashboard > manage jenkins > manage plugins > install the following plugins 
 "Docker", "Docker API"   "Docker Pipeline"   ""        , "Docker build steps", "CloudBees Docker Build and Publish plugin" and "Docker Commons Plugin"
